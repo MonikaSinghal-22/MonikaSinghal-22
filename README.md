@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first “Hello, World!”  <br>📚 I'm currently learning Generative AI and Cloud (AWS)  <br>🎯 Goals: Build solutions that blend creativity with real-world impact and become fluent in system design  <br>🎲 Fun fact: I love turning complex problems into simple solutions—and yes, I debug with snacks 🍫</p>
+<p align="left">📚 I'm currently learning Generative AI and Cloud (AWS and Azure)  <br>🎯 Goals: Build solutions that blend creativity with real-world impact and become fluent in system design  <br>🎲 Fun fact: I love turning complex problems into simple solutions—and yes, I debug with snacks 🍫</p>
 
 ###
 
